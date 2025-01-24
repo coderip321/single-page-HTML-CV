@@ -1,4 +1,3 @@
-``markdown
 # Single-Page HTML CV
 
 This project showcases how to create a professional, clean, and SEO-friendly **single-page CV** using **HTML** and **CSS**. It includes key sections such as **Contact Information**, **Education**, **Skills**, and **Career History**. The design focuses on readability, responsiveness, and social media optimization, making it ideal for building a professional online presence.
@@ -49,3 +48,12 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## Contact
 
 For any questions, suggestions, or contributions, feel free to reach out via email at **khalidcamzy5@gmail.com**.
+
+## One-Sentence Description
+
+This project provides a minimalist, SEO-optimized single-page CV with a clean, modern design and customizable sections for an impactful online presence.
+
+## Learn More
+
+For more information about building a single-page CV, check out the [Single-Page CV Roadmap](https://roadmap.sh/projects/single-page-cv).
+```
